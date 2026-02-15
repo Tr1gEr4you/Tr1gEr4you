@@ -4,6 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
 </p>
 
