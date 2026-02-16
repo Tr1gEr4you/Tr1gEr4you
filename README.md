@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🔭 **Backend разработчик** 
+🔭 **Backend developer/разработчик** 
 
 </div>
 
